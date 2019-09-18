@@ -1,4 +1,4 @@
-# Kaggle FraudDetectionChallenge
+# Kaggle Fraud Detection Challenge
 The notebook goes over a program to preprocess the data and then use ML Algorithms from Scikit Learn to detect fraudulent transactions.
 
 
